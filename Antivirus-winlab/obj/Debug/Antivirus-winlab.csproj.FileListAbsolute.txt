@@ -1,0 +1,10 @@
+E:\Antivirus-winlab\Antivirus-winlab\bin\Debug\Antivirus-winlab.exe.config
+E:\Antivirus-winlab\Antivirus-winlab\bin\Debug\Antivirus-winlab.exe
+E:\Antivirus-winlab\Antivirus-winlab\bin\Debug\Antivirus-winlab.pdb
+E:\Antivirus-winlab\Antivirus-winlab\obj\Debug\Antivirus-winlab.csprojAssemblyReference.cache
+E:\Antivirus-winlab\Antivirus-winlab\obj\Debug\Antivirus_winlab.Form1.resources
+E:\Antivirus-winlab\Antivirus-winlab\obj\Debug\Antivirus_winlab.Properties.Resources.resources
+E:\Antivirus-winlab\Antivirus-winlab\obj\Debug\Antivirus-winlab.csproj.GenerateResource.cache
+E:\Antivirus-winlab\Antivirus-winlab\obj\Debug\Antivirus-winlab.csproj.CoreCompileInputs.cache
+E:\Antivirus-winlab\Antivirus-winlab\obj\Debug\Antivirus-winlab.exe
+E:\Antivirus-winlab\Antivirus-winlab\obj\Debug\Antivirus-winlab.pdb
